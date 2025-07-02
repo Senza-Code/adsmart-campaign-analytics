@@ -1,0 +1,6 @@
+campaign_id,campaign_name,bid_strategy,daily_budget
+1,Campaign_1,Target CPA,714
+2,Campaign_2,Target CPA,684
+3,Campaign_3,Target CPA,972
+4,Campaign_4,Maximize Clicks,733
+5,Campaign_5,Manual CPC,604

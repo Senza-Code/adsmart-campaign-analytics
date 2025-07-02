@@ -1,0 +1,1001 @@
+user_id,age,region,device
+1,30,Asia,Desktop
+2,37,Asia,Tablet
+3,38,South America,Desktop
+4,44,Asia,Desktop
+5,57,Europe,Mobile
+6,58,North America,Tablet
+7,25,Africa,Tablet
+8,24,South America,Tablet
+9,22,Europe,Tablet
+10,38,Asia,Mobile
+11,46,North America,Mobile
+12,24,Africa,Tablet
+13,45,Europe,Tablet
+14,52,Asia,Desktop
+15,45,Europe,Tablet
+16,55,Asia,Tablet
+17,63,South America,Tablet
+18,41,Africa,Desktop
+19,65,Asia,Mobile
+20,29,Asia,Mobile
+21,65,North America,Desktop
+22,53,Europe,Tablet
+23,44,Europe,Mobile
+24,27,Asia,Mobile
+25,41,Europe,Mobile
+26,32,Africa,Tablet
+27,24,Europe,Tablet
+28,39,Europe,Tablet
+29,62,South America,Desktop
+30,44,Europe,Tablet
+31,30,Asia,Tablet
+32,20,Europe,Mobile
+33,39,Africa,Mobile
+34,35,Asia,Tablet
+35,26,Africa,Mobile
+36,37,Asia,Desktop
+37,24,Africa,Mobile
+38,59,South America,Tablet
+39,36,Asia,Mobile
+40,29,South America,Tablet
+41,58,Europe,Mobile
+42,64,Europe,Desktop
+43,62,South America,Desktop
+44,35,Africa,Desktop
+45,22,South America,Tablet
+46,19,Europe,Mobile
+47,56,North America,Mobile
+48,52,Asia,Tablet
+49,57,North America,Tablet
+50,46,Asia,Desktop
+51,30,South America,Tablet
+52,23,South America,Tablet
+53,59,Asia,Mobile
+54,23,North America,Tablet
+55,32,Europe,Desktop
+56,34,South America,Desktop
+57,62,South America,Desktop
+58,19,Africa,Desktop
+59,43,Africa,Tablet
+60,59,North America,Mobile
+61,62,Europe,Desktop
+62,51,South America,Tablet
+63,32,Africa,Mobile
+64,57,South America,Desktop
+65,37,Africa,Mobile
+66,24,Africa,Desktop
+67,41,Europe,Tablet
+68,49,South America,Mobile
+69,62,North America,Mobile
+70,23,North America,Desktop
+71,40,Africa,Mobile
+72,34,South America,Desktop
+73,55,Africa,Tablet
+74,29,North America,Mobile
+75,60,South America,Desktop
+76,50,South America,Mobile
+77,28,Asia,Mobile
+78,24,North America,Tablet
+79,35,Asia,Desktop
+80,61,North America,Desktop
+81,29,Europe,Desktop
+82,39,Africa,Tablet
+83,24,South America,Tablet
+84,35,South America,Tablet
+85,51,Africa,Desktop
+86,56,Europe,Mobile
+87,51,Asia,Tablet
+88,28,Africa,Mobile
+89,56,North America,Desktop
+90,63,North America,Mobile
+91,62,Asia,Tablet
+92,55,Africa,Mobile
+93,26,Europe,Desktop
+94,36,South America,Tablet
+95,58,Africa,Mobile
+96,42,Asia,Tablet
+97,29,North America,Tablet
+98,28,Africa,Mobile
+99,54,North America,Mobile
+100,25,Europe,Tablet
+101,61,South America,Mobile
+102,32,South America,Desktop
+103,59,North America,Tablet
+104,42,Asia,Desktop
+105,45,North America,Tablet
+106,38,Africa,Tablet
+107,60,Europe,Desktop
+108,47,Africa,Mobile
+109,18,Africa,Desktop
+110,46,Africa,Tablet
+111,36,North America,Desktop
+112,44,Europe,Mobile
+113,31,Asia,Desktop
+114,42,Africa,Desktop
+115,56,North America,Tablet
+116,52,South America,Mobile
+117,64,North America,Tablet
+118,60,South America,Tablet
+119,19,Europe,Mobile
+120,26,South America,Tablet
+121,39,Asia,Tablet
+122,28,Africa,Desktop
+123,45,Africa,Mobile
+124,28,Africa,Desktop
+125,32,Africa,Mobile
+126,63,South America,Mobile
+127,22,Europe,Mobile
+128,60,Asia,Tablet
+129,52,Africa,Desktop
+130,29,South America,Desktop
+131,20,Asia,Desktop
+132,64,Africa,Desktop
+133,37,Europe,Mobile
+134,51,Europe,Tablet
+135,26,South America,Mobile
+136,36,Africa,Tablet
+137,19,Africa,Tablet
+138,64,Europe,Tablet
+139,35,Asia,Mobile
+140,30,Europe,Tablet
+141,35,North America,Tablet
+142,33,South America,Mobile
+143,46,North America,Tablet
+144,31,North America,Mobile
+145,37,North America,Tablet
+146,38,North America,Desktop
+147,54,South America,Mobile
+148,43,Africa,Tablet
+149,38,Asia,Desktop
+150,56,Asia,Mobile
+151,55,Africa,Desktop
+152,41,Asia,Desktop
+153,61,Africa,Tablet
+154,57,Europe,Tablet
+155,46,Europe,Desktop
+156,30,Africa,Mobile
+157,44,Asia,Tablet
+158,47,South America,Mobile
+159,37,North America,Tablet
+160,28,Africa,Tablet
+161,49,North America,Desktop
+162,50,Asia,Desktop
+163,57,North America,Tablet
+164,40,Africa,Mobile
+165,23,South America,Mobile
+166,31,North America,Mobile
+167,55,North America,Tablet
+168,35,Europe,Mobile
+169,28,South America,Mobile
+170,55,Europe,Desktop
+171,37,Europe,Mobile
+172,39,Europe,Tablet
+173,44,Africa,Tablet
+174,64,Asia,Mobile
+175,18,Africa,Tablet
+176,33,Europe,Desktop
+177,19,Africa,Desktop
+178,49,Europe,Desktop
+179,34,North America,Mobile
+180,28,Europe,Desktop
+181,39,Asia,Desktop
+182,65,North America,Mobile
+183,38,Africa,Mobile
+184,44,North America,Tablet
+185,65,Africa,Tablet
+186,58,Africa,Desktop
+187,32,South America,Tablet
+188,40,Europe,Desktop
+189,60,South America,Desktop
+190,62,Europe,Mobile
+191,21,South America,Tablet
+192,33,Europe,Mobile
+193,27,South America,Mobile
+194,18,South America,Desktop
+195,41,Europe,Desktop
+196,23,Africa,Mobile
+197,39,Asia,Tablet
+198,53,Africa,Tablet
+199,25,South America,Tablet
+200,64,Europe,Desktop
+201,24,Asia,Desktop
+202,24,Europe,Mobile
+203,47,Europe,Tablet
+204,62,Africa,Desktop
+205,22,Europe,Tablet
+206,32,Europe,Tablet
+207,52,South America,Tablet
+208,31,South America,Desktop
+209,56,South America,Desktop
+210,50,Europe,Mobile
+211,27,Europe,Tablet
+212,34,South America,Mobile
+213,55,Asia,Mobile
+214,18,Africa,Mobile
+215,30,Africa,Desktop
+216,39,Africa,Mobile
+217,54,North America,Mobile
+218,34,North America,Tablet
+219,48,Europe,Desktop
+220,23,North America,Mobile
+221,58,Europe,Mobile
+222,45,Europe,Tablet
+223,20,South America,Mobile
+224,39,South America,Tablet
+225,18,Africa,Tablet
+226,54,Africa,Desktop
+227,55,North America,Desktop
+228,64,Africa,Desktop
+229,42,Europe,Tablet
+230,50,Africa,Mobile
+231,35,South America,Desktop
+232,41,Asia,Desktop
+233,57,Europe,Desktop
+234,24,Africa,Tablet
+235,56,South America,Tablet
+236,52,Africa,Tablet
+237,54,Africa,Tablet
+238,32,North America,Desktop
+239,20,Africa,Desktop
+240,32,North America,Tablet
+241,45,Africa,Mobile
+242,51,Europe,Mobile
+243,40,North America,Desktop
+244,62,Asia,Desktop
+245,52,Europe,Mobile
+246,61,Europe,Mobile
+247,65,South America,Tablet
+248,57,North America,Tablet
+249,19,North America,Tablet
+250,29,Europe,Tablet
+251,29,Europe,Tablet
+252,19,South America,Tablet
+253,65,North America,Tablet
+254,33,Africa,Mobile
+255,20,Europe,Mobile
+256,42,Asia,Tablet
+257,63,North America,Mobile
+258,50,South America,Tablet
+259,44,Europe,Tablet
+260,48,Asia,Tablet
+261,35,North America,Mobile
+262,46,North America,Mobile
+263,43,Asia,Tablet
+264,46,Asia,Desktop
+265,61,Africa,Desktop
+266,28,Asia,Mobile
+267,22,North America,Tablet
+268,43,South America,Mobile
+269,30,Africa,Mobile
+270,22,Asia,Mobile
+271,21,South America,Tablet
+272,52,North America,Mobile
+273,61,South America,Tablet
+274,59,Asia,Mobile
+275,29,South America,Tablet
+276,28,North America,Desktop
+277,58,South America,Mobile
+278,26,North America,Tablet
+279,64,Africa,Desktop
+280,56,Europe,Mobile
+281,59,South America,Mobile
+282,64,Africa,Mobile
+283,36,South America,Mobile
+284,63,North America,Desktop
+285,25,North America,Desktop
+286,40,Africa,Mobile
+287,26,Africa,Tablet
+288,53,Europe,Mobile
+289,42,Asia,Desktop
+290,47,North America,Desktop
+291,42,South America,Desktop
+292,52,Europe,Tablet
+293,59,South America,Tablet
+294,42,North America,Desktop
+295,64,Asia,Tablet
+296,18,Europe,Desktop
+297,36,Africa,Desktop
+298,20,Africa,Desktop
+299,60,North America,Desktop
+300,27,Asia,Mobile
+301,20,North America,Mobile
+302,25,Europe,Tablet
+303,52,North America,Desktop
+304,57,South America,Desktop
+305,41,Europe,Tablet
+306,32,Asia,Mobile
+307,35,Africa,Desktop
+308,57,South America,Mobile
+309,24,Europe,Desktop
+310,61,Africa,Desktop
+311,31,Asia,Mobile
+312,44,Africa,Tablet
+313,58,Asia,Tablet
+314,47,Africa,Tablet
+315,41,Europe,Desktop
+316,36,South America,Desktop
+317,53,South America,Tablet
+318,39,North America,Desktop
+319,64,South America,Desktop
+320,35,Europe,Mobile
+321,44,South America,Desktop
+322,38,Asia,Mobile
+323,30,South America,Tablet
+324,44,South America,Tablet
+325,62,Asia,Tablet
+326,41,North America,Tablet
+327,26,North America,Tablet
+328,41,Asia,Desktop
+329,49,South America,Mobile
+330,65,South America,Mobile
+331,49,South America,Desktop
+332,26,Europe,Mobile
+333,34,South America,Desktop
+334,29,South America,Desktop
+335,39,South America,Mobile
+336,63,Africa,Tablet
+337,62,Africa,Mobile
+338,53,Asia,Desktop
+339,38,North America,Mobile
+340,60,Asia,Mobile
+341,47,South America,Mobile
+342,43,South America,Desktop
+343,18,North America,Tablet
+344,42,South America,Desktop
+345,56,South America,Desktop
+346,49,Asia,Tablet
+347,60,North America,Mobile
+348,27,Europe,Desktop
+349,33,South America,Desktop
+350,49,North America,Tablet
+351,49,South America,Tablet
+352,38,North America,Tablet
+353,20,Asia,Desktop
+354,47,North America,Desktop
+355,30,Africa,Desktop
+356,59,North America,Desktop
+357,61,Europe,Desktop
+358,55,Europe,Desktop
+359,61,South America,Tablet
+360,22,Asia,Mobile
+361,56,Africa,Desktop
+362,65,Asia,Desktop
+363,32,South America,Mobile
+364,59,Asia,Desktop
+365,44,Asia,Desktop
+366,20,Africa,Tablet
+367,52,North America,Mobile
+368,62,Asia,Tablet
+369,40,North America,Mobile
+370,44,North America,Tablet
+371,22,North America,Desktop
+372,53,South America,Mobile
+373,60,North America,Mobile
+374,37,North America,Tablet
+375,23,Asia,Tablet
+376,20,South America,Mobile
+377,25,South America,Mobile
+378,39,Europe,Mobile
+379,37,Asia,Desktop
+380,62,Asia,Tablet
+381,61,North America,Mobile
+382,58,North America,Desktop
+383,34,Europe,Tablet
+384,45,Europe,Desktop
+385,47,Europe,Mobile
+386,50,Asia,Tablet
+387,60,Asia,Tablet
+388,43,Asia,Tablet
+389,41,Africa,Tablet
+390,52,Asia,Mobile
+391,58,South America,Tablet
+392,65,South America,Tablet
+393,53,Europe,Mobile
+394,46,North America,Desktop
+395,43,Africa,Desktop
+396,21,South America,Desktop
+397,26,Asia,Desktop
+398,23,Africa,Tablet
+399,39,North America,Desktop
+400,49,South America,Desktop
+401,55,Africa,Mobile
+402,29,Europe,Mobile
+403,51,South America,Mobile
+404,58,Africa,Desktop
+405,29,Asia,Mobile
+406,22,South America,Mobile
+407,57,Africa,Mobile
+408,19,South America,Mobile
+409,52,Europe,Desktop
+410,56,South America,Mobile
+411,50,Europe,Mobile
+412,51,Africa,Mobile
+413,29,South America,Desktop
+414,23,Africa,Mobile
+415,37,Asia,Mobile
+416,45,North America,Mobile
+417,26,South America,Tablet
+418,62,Africa,Desktop
+419,40,North America,Tablet
+420,20,South America,Mobile
+421,28,Africa,Desktop
+422,61,South America,Tablet
+423,48,Africa,Mobile
+424,56,North America,Mobile
+425,34,South America,Desktop
+426,42,Africa,Desktop
+427,61,Africa,Tablet
+428,54,Africa,Mobile
+429,52,Europe,Desktop
+430,49,North America,Desktop
+431,18,Europe,Mobile
+432,41,South America,Desktop
+433,39,Asia,Tablet
+434,35,North America,Desktop
+435,47,North America,Tablet
+436,37,Europe,Tablet
+437,34,Europe,Desktop
+438,48,North America,Mobile
+439,32,South America,Desktop
+440,51,Europe,Mobile
+441,25,Asia,Mobile
+442,62,Asia,Tablet
+443,37,South America,Desktop
+444,21,Africa,Desktop
+445,30,South America,Mobile
+446,35,North America,Tablet
+447,46,North America,Desktop
+448,51,South America,Mobile
+449,46,Asia,Tablet
+450,35,Asia,Desktop
+451,65,South America,Mobile
+452,24,Africa,Mobile
+453,64,North America,Desktop
+454,45,Africa,Desktop
+455,31,North America,Mobile
+456,50,North America,Desktop
+457,18,South America,Desktop
+458,64,South America,Desktop
+459,34,North America,Desktop
+460,19,Asia,Tablet
+461,28,Europe,Desktop
+462,24,North America,Desktop
+463,52,Europe,Desktop
+464,50,North America,Desktop
+465,62,Africa,Desktop
+466,54,North America,Tablet
+467,61,Europe,Mobile
+468,47,Europe,Desktop
+469,51,North America,Desktop
+470,56,Africa,Tablet
+471,57,North America,Mobile
+472,25,Asia,Tablet
+473,50,North America,Tablet
+474,39,Asia,Mobile
+475,32,Africa,Mobile
+476,63,North America,Mobile
+477,43,Asia,Desktop
+478,49,South America,Desktop
+479,26,Europe,Tablet
+480,49,Europe,Desktop
+481,46,South America,Mobile
+482,61,Europe,Tablet
+483,34,Asia,Desktop
+484,29,Europe,Desktop
+485,55,Europe,Tablet
+486,55,Asia,Desktop
+487,37,South America,Mobile
+488,31,Asia,Tablet
+489,31,Europe,Mobile
+490,31,North America,Mobile
+491,30,Asia,Tablet
+492,22,Africa,Tablet
+493,50,North America,Tablet
+494,51,Africa,Mobile
+495,39,Europe,Desktop
+496,25,Europe,Tablet
+497,20,Africa,Mobile
+498,56,South America,Desktop
+499,20,Europe,Desktop
+500,50,Africa,Tablet
+501,37,Europe,Mobile
+502,54,South America,Desktop
+503,18,South America,Tablet
+504,54,Asia,Desktop
+505,60,Africa,Mobile
+506,52,Europe,Mobile
+507,43,Africa,Desktop
+508,49,Africa,Mobile
+509,27,Asia,Desktop
+510,35,Asia,Tablet
+511,60,North America,Desktop
+512,62,Europe,Tablet
+513,52,Africa,Mobile
+514,42,Europe,Mobile
+515,50,South America,Tablet
+516,59,South America,Mobile
+517,53,Europe,Mobile
+518,52,Africa,Mobile
+519,18,South America,Desktop
+520,39,Africa,Desktop
+521,36,North America,Mobile
+522,33,Europe,Tablet
+523,43,North America,Tablet
+524,47,South America,Tablet
+525,22,South America,Desktop
+526,61,Asia,Mobile
+527,38,South America,Mobile
+528,64,North America,Tablet
+529,46,South America,Tablet
+530,37,Africa,Mobile
+531,30,Africa,Mobile
+532,28,Africa,Tablet
+533,65,South America,Mobile
+534,59,North America,Mobile
+535,39,North America,Mobile
+536,56,South America,Mobile
+537,35,Europe,Desktop
+538,43,Asia,Mobile
+539,50,Africa,Tablet
+540,62,South America,Desktop
+541,65,Asia,Mobile
+542,45,Africa,Desktop
+543,23,South America,Desktop
+544,60,Africa,Desktop
+545,61,Asia,Mobile
+546,23,North America,Desktop
+547,19,Africa,Mobile
+548,29,South America,Desktop
+549,23,Europe,Tablet
+550,31,North America,Mobile
+551,39,South America,Tablet
+552,45,North America,Tablet
+553,43,Europe,Desktop
+554,19,Africa,Mobile
+555,29,North America,Desktop
+556,61,North America,Mobile
+557,47,Africa,Desktop
+558,53,South America,Desktop
+559,23,Africa,Desktop
+560,41,North America,Tablet
+561,49,Europe,Mobile
+562,26,Europe,Mobile
+563,54,Africa,Mobile
+564,47,Asia,Mobile
+565,59,Europe,Desktop
+566,23,Asia,Desktop
+567,45,Europe,Mobile
+568,32,Africa,Mobile
+569,30,Asia,Tablet
+570,41,Asia,Mobile
+571,43,Asia,Desktop
+572,57,South America,Desktop
+573,47,North America,Tablet
+574,55,North America,Desktop
+575,21,Africa,Mobile
+576,26,Europe,Desktop
+577,54,Asia,Mobile
+578,34,North America,Mobile
+579,36,South America,Tablet
+580,55,Europe,Desktop
+581,21,Europe,Tablet
+582,48,Africa,Tablet
+583,62,South America,Mobile
+584,58,Africa,Tablet
+585,33,Africa,Mobile
+586,54,Asia,Mobile
+587,53,South America,Desktop
+588,26,South America,Tablet
+589,21,North America,Mobile
+590,65,Africa,Mobile
+591,60,Europe,Tablet
+592,54,Africa,Tablet
+593,53,Europe,Tablet
+594,41,Europe,Tablet
+595,53,Asia,Mobile
+596,63,North America,Tablet
+597,64,Africa,Tablet
+598,27,South America,Desktop
+599,34,Asia,Tablet
+600,60,South America,Tablet
+601,23,North America,Desktop
+602,41,Asia,Desktop
+603,38,North America,Mobile
+604,46,Europe,Mobile
+605,61,Europe,Mobile
+606,27,Africa,Tablet
+607,38,South America,Desktop
+608,21,South America,Desktop
+609,53,South America,Desktop
+610,26,Europe,Tablet
+611,41,North America,Mobile
+612,31,North America,Mobile
+613,46,Asia,Mobile
+614,24,South America,Mobile
+615,23,Asia,Mobile
+616,53,Europe,Tablet
+617,35,Europe,Tablet
+618,33,Asia,Mobile
+619,57,North America,Mobile
+620,64,North America,Tablet
+621,28,South America,Desktop
+622,31,Europe,Desktop
+623,61,Europe,Desktop
+624,50,South America,Mobile
+625,21,Europe,Tablet
+626,20,North America,Mobile
+627,47,Europe,Mobile
+628,31,North America,Mobile
+629,20,Asia,Tablet
+630,22,Asia,Mobile
+631,34,Europe,Tablet
+632,24,Africa,Mobile
+633,31,South America,Desktop
+634,59,Europe,Tablet
+635,28,Asia,Desktop
+636,26,Africa,Tablet
+637,61,Africa,Desktop
+638,55,Asia,Desktop
+639,23,South America,Mobile
+640,65,Europe,Tablet
+641,36,Europe,Mobile
+642,18,Europe,Tablet
+643,54,North America,Tablet
+644,49,Europe,Mobile
+645,49,Africa,Desktop
+646,33,South America,Tablet
+647,36,Europe,Desktop
+648,55,Asia,Tablet
+649,49,Africa,Desktop
+650,64,North America,Desktop
+651,59,South America,Tablet
+652,18,Europe,Tablet
+653,32,Europe,Tablet
+654,20,South America,Desktop
+655,43,Asia,Mobile
+656,22,South America,Desktop
+657,39,Africa,Tablet
+658,61,Europe,Mobile
+659,51,South America,Desktop
+660,41,Europe,Mobile
+661,60,Europe,Mobile
+662,29,Europe,Desktop
+663,25,Europe,Desktop
+664,21,Europe,Mobile
+665,61,North America,Mobile
+666,19,South America,Desktop
+667,42,Europe,Mobile
+668,53,South America,Tablet
+669,65,Europe,Desktop
+670,25,Europe,Tablet
+671,28,Europe,Desktop
+672,49,Europe,Tablet
+673,19,North America,Tablet
+674,28,Asia,Mobile
+675,37,Europe,Desktop
+676,18,North America,Tablet
+677,18,Asia,Desktop
+678,35,Europe,Mobile
+679,20,North America,Mobile
+680,65,Asia,Tablet
+681,57,Asia,Mobile
+682,23,Asia,Mobile
+683,29,Asia,Tablet
+684,63,Africa,Mobile
+685,19,Europe,Tablet
+686,48,South America,Desktop
+687,59,North America,Tablet
+688,38,Asia,Desktop
+689,36,South America,Tablet
+690,30,North America,Tablet
+691,19,North America,Tablet
+692,35,North America,Desktop
+693,63,Africa,Tablet
+694,18,North America,Tablet
+695,59,South America,Desktop
+696,18,Europe,Desktop
+697,47,North America,Desktop
+698,27,South America,Desktop
+699,35,South America,Desktop
+700,37,Africa,Desktop
+701,60,Europe,Tablet
+702,21,South America,Desktop
+703,40,Asia,Mobile
+704,60,Africa,Desktop
+705,27,Asia,Desktop
+706,32,South America,Desktop
+707,49,Africa,Mobile
+708,29,Africa,Tablet
+709,31,Africa,Desktop
+710,46,Europe,Desktop
+711,56,North America,Mobile
+712,26,Africa,Desktop
+713,65,Europe,Tablet
+714,23,Asia,Mobile
+715,41,Africa,Mobile
+716,20,North America,Mobile
+717,33,Asia,Desktop
+718,61,South America,Mobile
+719,22,South America,Desktop
+720,50,Africa,Tablet
+721,30,South America,Desktop
+722,65,North America,Tablet
+723,53,Africa,Desktop
+724,62,Africa,Tablet
+725,19,Africa,Desktop
+726,20,North America,Desktop
+727,41,Europe,Tablet
+728,45,South America,Mobile
+729,47,Europe,Desktop
+730,45,Asia,Tablet
+731,52,South America,Tablet
+732,37,Africa,Tablet
+733,46,Europe,Desktop
+734,55,Africa,Tablet
+735,32,Africa,Desktop
+736,39,Europe,Tablet
+737,22,Africa,Desktop
+738,48,Africa,Desktop
+739,38,Europe,Desktop
+740,23,Europe,Mobile
+741,54,Asia,Mobile
+742,55,North America,Desktop
+743,22,Europe,Mobile
+744,64,North America,Tablet
+745,48,Europe,Tablet
+746,35,North America,Tablet
+747,50,Africa,Desktop
+748,49,Europe,Desktop
+749,40,Africa,Mobile
+750,55,Europe,Mobile
+751,20,North America,Mobile
+752,57,Europe,Tablet
+753,32,North America,Mobile
+754,62,Asia,Desktop
+755,41,Africa,Desktop
+756,51,North America,Mobile
+757,39,North America,Tablet
+758,28,Asia,Mobile
+759,46,Asia,Tablet
+760,45,North America,Tablet
+761,26,Europe,Tablet
+762,51,Asia,Tablet
+763,48,Africa,Desktop
+764,35,South America,Desktop
+765,53,Europe,Tablet
+766,32,North America,Tablet
+767,28,South America,Desktop
+768,27,North America,Mobile
+769,46,South America,Mobile
+770,42,South America,Mobile
+771,28,Africa,Mobile
+772,53,Africa,Desktop
+773,21,South America,Desktop
+774,47,North America,Tablet
+775,30,Asia,Tablet
+776,25,South America,Mobile
+777,42,Europe,Desktop
+778,30,Africa,Tablet
+779,50,Africa,Tablet
+780,28,Africa,Mobile
+781,41,North America,Desktop
+782,44,North America,Desktop
+783,55,South America,Tablet
+784,65,Africa,Tablet
+785,62,Asia,Desktop
+786,45,North America,Desktop
+787,38,South America,Tablet
+788,32,Asia,Tablet
+789,63,Asia,Mobile
+790,31,North America,Desktop
+791,57,Africa,Desktop
+792,47,Africa,Desktop
+793,42,South America,Desktop
+794,35,Asia,Desktop
+795,56,Africa,Tablet
+796,42,South America,Mobile
+797,40,Africa,Tablet
+798,59,North America,Mobile
+799,29,South America,Desktop
+800,39,North America,Desktop
+801,42,South America,Tablet
+802,45,North America,Mobile
+803,61,Europe,Desktop
+804,61,Europe,Mobile
+805,28,Europe,Tablet
+806,36,South America,Mobile
+807,30,South America,Tablet
+808,18,Asia,Mobile
+809,56,Asia,Desktop
+810,29,Europe,Tablet
+811,36,Asia,Tablet
+812,63,Europe,Desktop
+813,35,Africa,Desktop
+814,57,South America,Desktop
+815,58,Africa,Desktop
+816,22,Europe,Tablet
+817,31,Africa,Tablet
+818,43,North America,Desktop
+819,61,South America,Tablet
+820,43,North America,Tablet
+821,37,North America,Tablet
+822,34,South America,Desktop
+823,18,Africa,Mobile
+824,49,South America,Mobile
+825,63,Africa,Tablet
+826,35,Europe,Mobile
+827,19,Africa,Tablet
+828,62,South America,Desktop
+829,28,Asia,Mobile
+830,62,North America,Mobile
+831,53,North America,Desktop
+832,27,Europe,Desktop
+833,29,Asia,Desktop
+834,36,North America,Desktop
+835,53,Asia,Desktop
+836,40,Africa,Tablet
+837,21,South America,Tablet
+838,48,South America,Tablet
+839,34,South America,Mobile
+840,38,Africa,Mobile
+841,43,South America,Desktop
+842,42,North America,Desktop
+843,18,Africa,Desktop
+844,21,North America,Desktop
+845,18,Africa,Mobile
+846,33,Africa,Mobile
+847,20,North America,Mobile
+848,52,Africa,Mobile
+849,34,North America,Mobile
+850,25,Africa,Mobile
+851,28,Europe,Mobile
+852,18,Asia,Mobile
+853,24,Asia,Desktop
+854,47,Africa,Mobile
+855,20,Europe,Tablet
+856,18,North America,Desktop
+857,58,Africa,Mobile
+858,49,North America,Mobile
+859,30,Europe,Desktop
+860,55,Africa,Tablet
+861,39,Africa,Tablet
+862,64,Asia,Tablet
+863,63,North America,Mobile
+864,45,South America,Mobile
+865,54,North America,Tablet
+866,60,North America,Tablet
+867,64,Asia,Mobile
+868,37,Asia,Tablet
+869,38,South America,Desktop
+870,62,Asia,Mobile
+871,21,South America,Mobile
+872,52,South America,Desktop
+873,22,South America,Mobile
+874,41,Asia,Tablet
+875,25,Africa,Tablet
+876,51,Asia,Mobile
+877,18,Europe,Tablet
+878,63,South America,Tablet
+879,27,Asia,Mobile
+880,36,Europe,Mobile
+881,60,Europe,Mobile
+882,41,South America,Desktop
+883,23,Asia,Tablet
+884,20,Europe,Desktop
+885,57,Africa,Tablet
+886,28,Asia,Tablet
+887,30,Asia,Desktop
+888,23,Europe,Mobile
+889,28,North America,Tablet
+890,47,South America,Desktop
+891,50,Europe,Mobile
+892,62,South America,Tablet
+893,45,North America,Desktop
+894,35,North America,Mobile
+895,42,Africa,Desktop
+896,42,Africa,Desktop
+897,50,North America,Desktop
+898,60,South America,Tablet
+899,30,South America,Tablet
+900,50,South America,Desktop
+901,36,Europe,Tablet
+902,42,Europe,Tablet
+903,31,North America,Mobile
+904,40,Europe,Desktop
+905,32,South America,Tablet
+906,60,Asia,Tablet
+907,39,Europe,Desktop
+908,48,Europe,Mobile
+909,22,Africa,Desktop
+910,25,Asia,Tablet
+911,20,South America,Tablet
+912,46,Asia,Tablet
+913,36,Africa,Tablet
+914,24,Africa,Tablet
+915,59,South America,Mobile
+916,40,Europe,Tablet
+917,64,North America,Desktop
+918,33,Asia,Mobile
+919,28,Asia,Desktop
+920,45,South America,Desktop
+921,45,South America,Desktop
+922,19,Asia,Desktop
+923,25,Asia,Desktop
+924,30,Africa,Tablet
+925,25,South America,Desktop
+926,43,Africa,Mobile
+927,46,Asia,Desktop
+928,36,Asia,Mobile
+929,49,South America,Desktop
+930,20,North America,Tablet
+931,39,North America,Mobile
+932,35,Asia,Desktop
+933,19,South America,Tablet
+934,44,Europe,Tablet
+935,58,Asia,Mobile
+936,25,Asia,Mobile
+937,49,Asia,Mobile
+938,49,South America,Tablet
+939,47,Asia,Tablet
+940,32,Europe,Tablet
+941,23,Africa,Desktop
+942,28,North America,Tablet
+943,55,North America,Mobile
+944,53,South America,Desktop
+945,51,North America,Tablet
+946,59,South America,Tablet
+947,53,North America,Tablet
+948,22,North America,Tablet
+949,59,Africa,Mobile
+950,34,Asia,Tablet
+951,19,Africa,Tablet
+952,51,North America,Desktop
+953,32,Asia,Tablet
+954,34,Asia,Desktop
+955,18,North America,Tablet
+956,24,Asia,Desktop
+957,18,North America,Desktop
+958,63,North America,Mobile
+959,43,Asia,Tablet
+960,45,Europe,Mobile
+961,47,South America,Desktop
+962,38,Asia,Desktop
+963,30,Europe,Tablet
+964,29,South America,Mobile
+965,65,Africa,Tablet
+966,49,Africa,Desktop
+967,59,Africa,Tablet
+968,30,Africa,Tablet
+969,25,Europe,Desktop
+970,24,Asia,Mobile
+971,36,Asia,Mobile
+972,24,North America,Mobile
+973,23,Europe,Desktop
+974,40,North America,Tablet
+975,33,Europe,Tablet
+976,41,Europe,Tablet
+977,54,South America,Tablet
+978,51,North America,Mobile
+979,64,Africa,Mobile
+980,48,Africa,Tablet
+981,44,North America,Desktop
+982,31,Asia,Desktop
+983,29,South America,Mobile
+984,58,South America,Mobile
+985,39,Europe,Desktop
+986,45,Europe,Mobile
+987,36,Africa,Desktop
+988,53,North America,Desktop
+989,59,Africa,Mobile
+990,27,South America,Mobile
+991,20,Europe,Tablet
+992,50,South America,Desktop
+993,63,South America,Mobile
+994,19,Africa,Mobile
+995,34,Asia,Tablet
+996,35,Africa,Desktop
+997,53,Africa,Mobile
+998,28,North America,Desktop
+999,22,Africa,Tablet
+1000,30,Africa,Tablet
