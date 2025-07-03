@@ -27,7 +27,8 @@ Think of this as a mock performance marketing lab — minus the drama of a real 
 
 ## What You'll Find Here
 
-notebooks/         # Data exploration, experiments, modeling — all the magic  
+notebooks/         # Data exploration, experiments, modeling — all the magic
+ + ⤷ Includes full ML pipeline, confusion matrix, ROC curve, and commentary
 data/              # Simulated raw & processed campaign data  
 src/               # Python scripts to keep things modular  
 visuals/           # Graphs, charts, and maybe a few witty annotations  
@@ -54,9 +55,24 @@ These are the kinds of questions that keep campaign managers up at night. Fortun
 - Custom KPI framework for performance insights
 - A/B testing simulations with real statistical rigor
 - Regression modeling to find performance drivers
-- Bonus ML model to predict click-through potential
-
+- Visual funnel analysis with conversion drop-off rates  
+- Random Forest classifier to predict click-through likelihood  
+- Confusion matrix and ROC curve for model evaluation  
 ---
+## Predictive Modeling: Click Classifier
+To spice things up, I trained a Random Forest classifier to predict whether a user would click an ad based on:
+
+- Region  
+- Device  
+- Bid strategy  
+- Campaign-level metadata  
+
+**Outputs:**
+- Confusion Matrix (aka: "Did we catch the clickers?")
+- ROC Curve to evaluate model performance
+- Classification Report with precision/recall/f1 scores
+
+It’s not perfect (yet), but hey — I’m learning. And this project shows my willingness to take on challenges beyond the usual dashboards.
 
 ## Why This Exists
 
@@ -65,13 +81,44 @@ Because analytics is more than just numbers — it’s storytelling with evidenc
 And because I want to show what I can do before I’m handed a title that says I already can.
 
 ---
+## Common Advertising + Analytics Abbreviations (For Newbies and the Curious)
+Because no one is born knowing what ROAS means.
+
+| Abbreviation | Stands For                    | What It Means (Real-World Edition) |
+|-------------|--------------------------------|------------------------------------|
+| **CTR**     | Click-Through Rate             | Of all the people who saw the ad, how many clicked it? |
+| **CVR**     | Conversion Rate                | Of those who clicked, how many did what we wanted (buy, sign up, etc.)? |
+| **CPA**     | Cost Per Acquisition           | How much did we pay to gain *one* customer, lead, or signup? |
+| **CPC**     | Cost Per Click                 | How much money left our budget each time someone clicked? |
+| **ROAS**    | Return on Ad Spend             | For every $1 we spent, how much money came back? ($3 ROAS = $3 earned per $1 spent) |
+| **KPI**     | Key Performance Indicator      | A fancy name for any metric that actually matters |
+| **A/B Test**| Split Test                     | A head-to-head matchup between two options (like "Should we use a cat pic or a dog pic in the ad?") |
+
+These are the acronyms you'll hear in marketing and product meetings that sound scary at first, but are actually just shorthand for *common-sense questions* like:
+> “Did it work?”  
+> “Was it worth it?”  
+> “Can we do better?”
+---
+
+## Visual Insights
+
+Here’s how performance drops off through the user journey — from impressions to clicks to conversions:
+
+![Funnel Chart](visuals/funnel_chart.png)
+
+And here’s how well our click prediction model performs:
+
+![ROC Curve](visuals/roc_curve.png)
+
+---
 
 ## About Me
 
 Created by **Pearl Senza Sikepe**, an analytics-minded, insight-chasing, metric-bending explorer of data with a soft spot for clarity, fairness, and useful tech.
 
-📫Email: ps3358@columbia.edu 
-🌐LinkedIn: https://www.linkedin.com/in/pearl-s-041a1178• 
+Email: ps3358@columbia.edu
+
+LinkedIn: https://www.linkedin.com/in/pearl-s-041a1178• 
 ---
 
 > No budgets were harmed in the making of this project. All data is simulated. But the insights? 100% real.
