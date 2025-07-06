@@ -61,7 +61,7 @@ def stimulate_all():
     campaigns = generate_campaigns()
     interactions = generate_interactions(users, campaigns)
 
-    # make sure the folder exists (tried debuging for minutes because the folder didn't exist( spelled processed as pressed smh) - don't be like me)
+    # make sure the folder exists (tried debuging for minutes because the folder didn't exist( spelled processed as precessed smh) - don't be like me)
     os.makedirs('data/processed', exist_ok=True)
 
     # save it like a responsible data human

@@ -28,7 +28,7 @@ Think of this as a mock performance marketing lab — minus the drama of a real 
 ## What You'll Find Here
 
 notebooks/         # Data exploration, experiments, modeling — all the magic
- + ⤷ Includes full ML pipeline, confusion matrix, ROC curve, and commentary
+⤷ Includes full ML pipeline, confusion matrix, ROC curve, and commentary
 data/              # Simulated raw & processed campaign data  
 src/               # Python scripts to keep things modular  
 visuals/           # Graphs, charts, and maybe a few witty annotations  
@@ -99,11 +99,18 @@ These are the acronyms you'll hear in marketing and product meetings that sound 
 > “Was it worth it?”  
 > “Can we do better?”
 ---
+## 💻 Launch the Dashboard
+
+Run this Streamlit dashboard to explore metrics and visuals:
+
+```bash
+streamlit run dashboard/app.py
+```
+---
 
 ## Visual Insights
 
 Here’s how performance drops off through the user journey — from impressions to clicks to conversions:
-
 ![Confusion Matrix](visuals/funnel_chart.png)
 
 And here’s how well our click prediction model performs:
@@ -118,7 +125,7 @@ Created by **Pearl Senza Sikepe**, an analytics-minded, insight-chasing, metric-
 
 Email: ps3358@columbia.edu
 
-LinkedIn: https://www.linkedin.com/in/pearl-s-041a1178• 
+Connect with me on [LinkedIn](https://www.linkedin.com/in?pearl-s-041a1178)
 ---
 
 > No budgets were harmed in the making of this project. All data is simulated. But the insights? 100% real.
