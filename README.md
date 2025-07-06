@@ -27,8 +27,7 @@ Think of this as a mock performance marketing lab — minus the drama of a real 
 
 ## What You'll Find Here
 
-notebooks/         # Data exploration, experiments, modeling — all the magic
-⤷ Includes full ML pipeline, confusion matrix, ROC curve, and commentary
+notebooks/         # Data exploration, experiments, modeling — all the magic ⤷ Includes full ML pipeline, confusion matrix, ROC curve, and commentary
 data/              # Simulated raw & processed campaign data  
 src/               # Python scripts to keep things modular  
 visuals/           # Graphs, charts, and maybe a few witty annotations  
@@ -125,7 +124,7 @@ Created by **Pearl Senza Sikepe**, an analytics-minded, insight-chasing, metric-
 
 Email: ps3358@columbia.edu
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in?pearl-s-041a1178)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pearl-s-041a1178/)
 ---
 
 > No budgets were harmed in the making of this project. All data is simulated. But the insights? 100% real.
