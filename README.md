@@ -104,7 +104,7 @@ These are the acronyms you'll hear in marketing and product meetings that sound 
 
 Here’s how performance drops off through the user journey — from impressions to clicks to conversions:
 
-![Funnel Chart](visuals/funnel_chart.png)
+![Confusion Matrix](visuals/funnel_chart.png)
 
 And here’s how well our click prediction model performs:
 
